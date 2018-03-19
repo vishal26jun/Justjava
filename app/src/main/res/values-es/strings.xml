@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just java</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="name">Nombre</string>
+    <string name="order">" Orden"</string>
+    <string name="ordersummary">"Nombre:-<xliff:g id="name" example="vishu">%s</xliff:g> cantidad =<xliff:g id="quantity" example="2">%d</xliff:g> Crema batida ordenó: -<xliff:g id="whippedcream" example="true">%b</xliff:g>Chocolate pedido: -<xliff:g id="isChocklate" example="true">%b</xliff:g> total: <xliff:g id="price" example="$2">%s</xliff:g> ¡gracias! "</string>
+    <string name="quantity">Cantidad</string>
+    <string name="topping">Cubierta</string>
+    <string name="whipped_cream">Crema batida</string>
+</resources>
